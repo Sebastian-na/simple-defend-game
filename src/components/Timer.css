@@ -1,0 +1,10 @@
+.stopwatch-time {
+  text-align: center;
+  color: #0f0f0f;
+  font-size: 80px;
+}
+
+.stopwatch-buttons {
+  display: flex;
+  justify-content: center;
+}
